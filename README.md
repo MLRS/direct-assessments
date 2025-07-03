@@ -27,6 +27,7 @@ The source sentences in these datasets were compiled from various parallel corpo
 
 If you use this data in your work, please cite the following paper:
 
-```
-(To be published)
-```
+Júlia Falcão, Claudia Borg, Nora Aranberri, and Kurt Abela. 2024. **COMET for Low-Resource Machine Translation Evaluation: A Case Study of English-Maltese and Spanish-Basque**. In _Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)_, pages 3553–3565, Torino, Italia. ELRA and ICCL. [Download Paper](https://aclanthology.org/2024.lrec-main.315/)
+
+
+
